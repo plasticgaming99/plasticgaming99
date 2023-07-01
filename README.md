@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### discord 💬
-<iframe src="https://canary.discord.com/widget?id=898713797768904744&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.gg/aQjfz7BgeX
 <!--
 **mimikyutale/mimikyutale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
