@@ -1,4 +1,4 @@
-## unko:
+# mere a codeer (self-proclaimed):
 https://plasticgaming99.github.io
 https://plasticgaming99.github.io
 
